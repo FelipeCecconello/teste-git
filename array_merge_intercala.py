@@ -61,3 +61,5 @@ encontrei = busca(notas, 0, len(notas), 9.3)
 print("Encontrei a nota no indice ",encontrei)
 for alunos in notas:
     print(alunos.get_aluno(),alunos.get_nota())
+
+print("Testando git")
